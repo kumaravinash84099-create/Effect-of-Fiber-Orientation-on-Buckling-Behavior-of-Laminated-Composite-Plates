@@ -1,0 +1,2 @@
+# Effect-of-Fiber-Orientation-on-Buckling-Behavior-of-Laminated-Composite-Plates
+Modeled multi-ply E-glass/epoxy laminated composite plates in Abaqus and performed eigenvalue buckling analysis. – Analyzed various stacking sequences under compressive loading to determine optimal ply configurations. – Evaluated critical buckling loads and mode shapes to identify configurations providing maximum axial stiffness. –Tool Used: ABAQUS
